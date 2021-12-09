@@ -27,6 +27,6 @@
 微信：2380296568  
 
 
-Latest Version 1.0.6
+Latest Version 1.0.8
 
 
